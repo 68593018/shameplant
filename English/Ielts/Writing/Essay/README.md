@@ -14,6 +14,9 @@ Alternative medicine is not new. It is accepted that it pre-dates conventional m
 world. I am unconvinced that it is dangerous, and feel that both alternative and convintional medicine can be useful.
 
 There are several reasons why the conventional medical community is often dismissive of alternatives. Firstly, there has been little 
-scientific research into such medicine, so there is a scarcity of evidence to support the claims of their supporters. Furthermore, people
+scientific research into such medicine, so there is a scarcity of evidence to support the claims of their supporters. Furthermore,
+people often try such treatment because of recommendations from friends, and therefore come to the therapist with a very positive
+attitude, which may be part of the reason for the cure. Moreover, these therapies are usually only useful for long-term, chronic
+conditions, Acute medical problems, sucha as accidental injury, often require more conventional methods.
 
 
