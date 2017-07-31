@@ -25,5 +25,9 @@ so the worst outcome would be no change, One of the strongest arguments for the 
 , whilst conventional medicine is available without charge, many people are prepared to pay considerable sums for alternatives. If they 
 were totally unhelpful, it would be surprising if this continued.
 
+I strongly believe that conventional medicine and alternative therapies can and shoud coexist. They have different strenghts, and can both
+be used effecviely to target particular medical problems. The best situation would be for alternative therapies to be used to support and
+complement conventional medicine.
+
 
 
