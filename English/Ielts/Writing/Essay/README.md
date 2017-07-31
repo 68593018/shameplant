@@ -11,5 +11,9 @@ To what extent do you agree with this statement?
 - Answer
 
 Alternative medicine is not new. It is accepted that it pre-dates conventional medicine and it is still used by many people all over the
-world. I am unconvinced that it is dangerous, and feel that both alternative and convintional medicine can be useful
+world. I am unconvinced that it is dangerous, and feel that both alternative and convintional medicine can be useful.
+
+There are several reasons why the conventional medical community is often dismissive of alternatives. Firstly, there has been little 
+scientific research into such medicine, so there is a scarcity of evidence to support the claims of their supporters. Furthermore, people
+
 
