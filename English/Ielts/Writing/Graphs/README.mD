@@ -19,6 +19,11 @@ just exceeded outgoings.
 In detail, donated food provided most of the revenue for the charity, at 86%. Similarly, with regard to expenditures, one category, 
 program services, accounted for nearly all of the outgoings, at 95.8%.
 
+The other categories were much smaller. Community contributions, which were the second largest revenue source, brought in 10.4% of overall
+income, and this was followed by program revenue, at 2.2%. Investment income, goverment grant, and other income were very small sources of 
+revenue, account for only 0.8% combined.
 
+There were only two other expenditure items, fundrasing and management and general, accounting for 2.6% and 1.6% respectively. The total
+amount of income was $53,5615,80, which was just enough to cover the expenditure of $53,224,896.
 
 
