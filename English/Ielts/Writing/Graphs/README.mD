@@ -16,4 +16,9 @@ The pie charts show the amount of revenue and expenditures over a year of a chil
 donated food accounted for the majority of the income, while programe services accounted for the most expenditure. Total revenue sources
 just exceeded outgoings.
 
+In detail, donated food provided most of the revenue for the charity, at 86%. Similarly, with regard to expenditures, one category, 
+program services, accounted for nearly all of the outgoings, at 95.8%.
+
+
+
 
