@@ -14,3 +14,9 @@ Suggest a date when your friend can come and see it.
 
 - Answer
 
+Dear Gary,  
+
+Hope you are doing well.  
+
+
+
