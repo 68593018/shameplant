@@ -59,4 +59,8 @@ their families, live in halls of residence and meet new friends. As a result, th
 live more fulfilling lives. Secondly, society will gain from the contribution that the graduates can make to the economy. We are living 
 in a very competitive world, so countries need educated people in order to compete and prosper.
 
+Therefore, I believe that although a main aim of university education is to get the best job, there are clearly futher benefits, If we 
+continue to promote and encourage university attendence, it will lead to a better future for individual and society
+
+
 
