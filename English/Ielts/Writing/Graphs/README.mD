@@ -44,4 +44,4 @@ residents in 1999
 
 Summarize the information by selecting and reporting the main features and make comparisons where relevant.
 
-![Visits to and from the UK](Academic_IELTS_Writing_task_1_Sample_140.png)
+![Visits to and from the UK](xielts-Line-and-bar-graph.jpg.pagespeed.ic.6BeONEcywF.jpg)
