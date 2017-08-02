@@ -45,3 +45,8 @@ residents in 1999
 Summarize the information by selecting and reporting the main features and make comparisons where relevant.
 
 ![Visits to and from the UK](xielts-Line-and-bar-graph.jpg.pagespeed.ic.6BeONEcywF.jpg)
+
+The line graph illustrates the numbers of visitors in millions from the UK who went abroad and those that come to the UK between 1979 
+and 1999, while the bar chart shows which countries were the most polular for UK residents to visit in 1999. Overall, it can be seen 
+that visits to and form the UK increased. and that France was the most polular country to go to.
+
