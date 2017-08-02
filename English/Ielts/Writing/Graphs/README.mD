@@ -50,3 +50,10 @@ The line graph illustrates the numbers of visitors in millions from the UK who w
 and 1999, while the bar chart shows which countries were the most polular for UK residents to visit in 1999. Overall, it can be seen 
 that visits to and form the UK increased. and that France was the most polular country to go to.
 
+To begin, the number of visits abroad by UK residents was higer than for those that came to the UK, and this remained so throughout the 
+period. The figures started at a similar amount, around 10 million, but visits abroad increased significantly to over 50 million, 
+whereas the number of overseas residents rose steadily to reach just under 30 million.
+
+By far the most popular country to visit in 1999 were France at approximately 11 million visitors, followed by Spain at 9 million. The 
+USA, Greece and Turkey were far less popular at around 4,3 and 2 million visitors respectively
+
