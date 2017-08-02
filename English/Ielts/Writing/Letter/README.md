@@ -46,6 +46,16 @@ Why you are writing to him
 Why you cannot pay the rent  
 When you will pay the rent  
 
+- Answer
+
+Dear Mr StickLand,  
+
+I am writing to you to request that you allow me to pay my rent late this month. 
+
+I've been a tenant with you for a number of years now, and, as you know, I have always paid my rent on time. However, I am having a few 
+financial problems at the moment. Last month, I was made redundant from my job because the company I work for is closing down. Because I 
+have not worked at the company for long, I have not received a redundancy payment, therefore leaving me short of money this month.
+
 
 
 
