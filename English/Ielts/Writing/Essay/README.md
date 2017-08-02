@@ -30,4 +30,19 @@ be used effecviely to target particular medical problems. The best situation wou
 complement conventional medicine.
 
 
+## Essay 2: Discuss two opinions
+
+- Question
+
+Write about the following topic:
+
+Some people believe the aim of university education is to help graduates get better jobs. Others believe there are much wider benefits 
+of university education for both individuals and society.
+
+Discuss both views and give your opinion.
+
+Give reasons for your answer and include any relevant examples from your own experience or knowledge
+
+- Answer
+
 
