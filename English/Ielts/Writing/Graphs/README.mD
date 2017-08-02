@@ -33,3 +33,15 @@ The pie charts depict the yearly income and cost for a year of a children's char
 While the charity largely cost on the program service and it is accurately 95.8%, they vastly get the receiving money as donated food and it is 86.6%, which is less than the highest cost. The second large income source is the community contribution, which is 10.4%; however, the second maximum cost is the fund rising and it is 2.6% of total cost.
 
 Moreover, there are another four sources such as program revenue (2.2%), investment income (0.2%), government grants (0.2%), and other income(0.4%) from which the children's charity receive money and among them investment income (0.2%), and government grants (0.2%)are the lowest source. On the other hand, there is another source of the charity is management and general (1.6%) and it is the lowest expenditure of the charity. Furthermore, the total receiving fund is $53, 561,580 in a year and total money cost is $53,224,896 in a year.
+
+
+## Line & Bar Chart
+
+- Question
+
+The line graph shows visits to and from the UK from 1979 to 1999, and the bar graph shows the most popular countries visited by UK 
+residents in 1999
+
+Summarize the information by selecting and reporting the main features and make comparisons where relevant.
+
+
