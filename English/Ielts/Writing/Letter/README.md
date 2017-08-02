@@ -56,6 +56,15 @@ I've been a tenant with you for a number of years now, and, as you know, I have 
 financial problems at the moment. Last month, I was made redundant from my job because the company I work for is closing down. Because I 
 have not worked at the company for long, I have not received a redundancy payment, therefore leaving me short of money this month.
 
+I can assure you that I will be able to pay the rent on the 15th of next month. I have now found another job, and they have kindly 
+agreed to give me an advance on my wages, but they are unable to arrange this until next week. 
+
+I hope this will be acceptable to you, but please contact me if it is a problem.
+
+Yours sincerely,  
+John Streetham.
+
+
 
 
 
