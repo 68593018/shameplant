@@ -53,4 +53,10 @@ future career prospects and attending university is one of the bests way to do t
 attractiveness to potential employers. In addition, further education is very expensive for many people, so most would not consider it 
 if it would not provide them with a more secure future and a higher standard of living. Thus job prospects are very important.
 
+However, there are ohter benefits for individuals and society. Firstly, the independence of living away from home is a benefit because 
+it helps the students develop better social skills and improve as a person. A case in point is that many students will have to leave 
+their families, live in halls of residence and meet new friends. As a result, their maturity and confidence will grow enabling them to 
+live more fulfilling lives. Secondly, society will gain from the contribution that the graduates can make to the economy. We are living 
+in a very competitive world, so countries need educated people in order to compete and prosper.
+
 
