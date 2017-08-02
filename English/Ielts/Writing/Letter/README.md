@@ -34,6 +34,18 @@ Ok, I look forward to seeing you. Let me know if you can't make it.
 
 All the best, John.
 
+## Semi-formal
+
+- Question
+
+You are experencing financial probleams and want to ask you landlord if you pay your rent late. Write a letter to your landlord
+
+In your letter explain:  
+
+Why you are writing to him  
+Why you cannot pay the rent  
+When you will pay the rent  
+
 
 
 
