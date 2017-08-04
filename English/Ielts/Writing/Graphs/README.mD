@@ -68,4 +68,16 @@ Summarize the information by selecting and reporting the main features and make 
 
 ![persons arrested in five years ending 1994](xielts-pie-and-bar-arrested.jpg.pagespeed.ic.a4Ls-EZHLp.jpg)
 
+- Answer
+
+The pie chart illustrates the percentage of males and females who were arrested from 1989 to 1994, while the bar chart compares the main
+reasons that the different genders were arrested most recently. It is evident from the charts that mals were arrested more than females 
+and that public drinking was the most common reason for arrest for both.
+
+To begin, the proportion of males arrested was much greater than for females. 32% were arrested compared to only 9% for women. Turning 
+to the reasons for the most recent arrests. there were some clear differences between men and women. Men were twice as likely to be 
+arrested for drink driving than women, at 26% and 14% respectively. Breach of order, theft, and other reasons were also slightly higher 
+for men, with all these offences standing in the range of 12-18% for both sexes. Interestingly though, women experienced a higher 
+percentage of arrest rates for assault and public drinking. The figures for assault were fairly similar at approximately 18%, whereas 
+public drinking represented the main reason for arrest, with women at a massive 38%, compared to 31% for men.
 
