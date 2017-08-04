@@ -58,4 +58,4 @@ By far the most popular country to visit in 1999 were France at approximately 11
 USA, Greece and Turkey were far less popular at around 4,3 and 2 million visitors respectively
 
 
-![persons arrested in five years ending 1994](xielts-pie-and-bar-arrested.jpg.pagespeed.ic.a4Ls-EZHLp)
+![persons arrested in five years ending 1994](xielts-pie-and-bar-arrested.jpg.pagespeed.ic.a4Ls-EZHLp.jpg)
