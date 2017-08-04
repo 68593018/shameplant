@@ -57,5 +57,15 @@ whereas the number of overseas residents rose steadily to reach just under 30 mi
 By far the most popular country to visit in 1999 were France at approximately 11 million visitors, followed by Spain at 9 million. The 
 USA, Greece and Turkey were far less popular at around 4,3 and 2 million visitors respectively
 
+## Pie Chart
+
+- Question
+
+The pie chart shows the percentage of persons arrested in the five years ending 1994 and the bar chart shows the most recent reasons for 
+arrest.
+
+Summarize the information by selecting and reporting the main features and make comparisons where revelant.
 
 ![persons arrested in five years ending 1994](xielts-pie-and-bar-arrested.jpg.pagespeed.ic.a4Ls-EZHLp.jpg)
+
+
