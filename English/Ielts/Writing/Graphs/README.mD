@@ -98,3 +98,17 @@ The line graph depicts the numbers of books that were loaned out from four libra
 illustrates the proportions of books borrowed in terms of genre. It is immediately apparent that the borrowing patterns for each library
 were quite varied, and that fiction was by far the most polular type of book.
 
+The borrowing of books at Sutton Wood and Ryeslip began farily high, at 250 and 300 per month in June respectively. However, while book
+borrowing at Ryeslip fell steadily to around 175 at the end of the period, borrowing at Sutton Wood folowed a much more erratic pattern.
+It plummeted to 100 in August, before then rising steeply to finish at 300, which represented the highest level of borrowing of the four
+
+Borowing at West Eaton and Church Mount, meanwhile, followed very similar patterns, with both starting quite low at 50 per month, but 
+then gradually increasing to finish at 150.
+
+Moving on to the type of books borrowed, fiction was in demand the most, at 43%. The next most popular books were biographies, accouting
+for around a fifth of the total. The borrowing of science and histroy were indentical, at 14% each, leaving self-help as the least 
+popular at 10%
+
+
+
+
