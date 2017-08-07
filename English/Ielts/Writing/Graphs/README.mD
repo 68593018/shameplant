@@ -120,3 +120,21 @@ Summarize the information by selecting and reporting the main features, and make
 ![annual_expenditures_on_cell_phone_by_USA_Consumers](annual_expenditures_on_cell_phone_by_USA_Consumers.png)
 
 
+- Answer
+
+The line graph illustrates the averange cost that American customers spent on mobile and landline phone services annually overy a 
+10-year period.
+
+Overall, spending on residential phone services dramatically declined, while polularity of mobile services increased sharply throughout
+a decade. Also, both services met at the same record in 2006.
+
+In 2001, spending on mobile phone services began by merely $200, while the amount of annual expenditure on the residential phone service
+was around $700. Over the following five years, expenditure on landline phone services gradually dropped below $600, whereas expenditure
+on cell phone services rose to just over $500.
+
+In 2006 cell phones overtook landline phones, and the services became equal in polularity with customers' annual expenditure of about 
+$550. Then, cell phone expenses rose to approximately $750 in 2010, making nearly a fourfold jump relatively to its initial figure in
+2010. Meanwhile, spending on residential phone services experienced a steep fall in 2007 and went on to steadily decrease for the rest
+of the period.
+
+
