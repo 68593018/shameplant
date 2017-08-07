@@ -109,6 +109,14 @@ Moving on to the type of books borrowed, fiction was in demand the most, at 43%.
 for around a fifth of the total. The borrowing of science and histroy were indentical, at 14% each, leaving self-help as the least 
 popular at 10%
 
+## Line Grpah
 
+- Question
+
+The graph shows averange annual expenditures on cell phone and residential phone services between 2001 and 2010.
+
+Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
 
 ![annual_expenditures_on_cell_phone_by_USA_Consumers](annual_expenditures_on_cell_phone_by_USA_Consumers.png)
+
+
