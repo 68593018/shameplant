@@ -92,3 +92,9 @@ Summarize the information by selecting and reporting the main features and make 
 
 ![ielts-line-graph-books-borrowed-libraries](ielts-line-graph-books-borrowed-libraries.jpg)
 
+- Answer
+
+The line graph depicts the numbers of books that were loaned out from four libraries over a four month period and the pie chart 
+illustrates the proportions of books borrowed in terms of genre. It is immediately apparent that the borrowing patterns for each library
+were quite varied, and that fiction was by far the most polular type of book.
+
