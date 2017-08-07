@@ -81,3 +81,14 @@ for men, with all these offences standing in the range of 12-18% for both sexes.
 percentage of arrest rates for assault and public drinking. The figures for assault were fairly similar at approximately 18%, whereas 
 public drinking represented the main reason for arrest, with women at a massive 38%, compared to 31% for men.
 
+## Line Grpah and Pie Chart
+
+- Question
+
+The line graph shows the number of books that were borrowed in four different months in 2014 from four village libraries, and the pie 
+chart shows the percentage of books, by type, that were borrowed over this time.
+
+Summarize the information by selecting and reporting the main features and make comparisons where revelant.
+
+![ielts-line-graph-books-borrowed-libraries](ielts-line-graph-books-borrowed-libraries.jpg)
+
