@@ -111,4 +111,4 @@ popular at 10%
 
 
 
-
+![annual_expenditures_on_cell_phone_by_USA_Consumers](annual_expenditures_on_cell_phone_by_USA_Consumers.png)
